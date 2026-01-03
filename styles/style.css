@@ -60,7 +60,7 @@
     font-style: inherit;
     font-size: 18px;
     line-height: 24.3px;
-    text-underline-offset: 4px;
+    text-underline-offset: 3px;
 }
 
 .header__address{
@@ -327,13 +327,16 @@
 
 .footer_adress{
     justify-self: end;
-    max-width: 264px;
+    max-width: 242px;
 }
 
 .footer__menu-list{
     display: block;
     text-align: center;
     list-style: none;
+    padding-top: 1px;
+    text-underline-offset: 3px;
+    line-height: 1.3;
 }
 
 .footer__link{
