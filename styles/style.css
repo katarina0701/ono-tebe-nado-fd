@@ -10,7 +10,7 @@
     margin: 0;
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
-    align-items: center;   
+    align-items: center;
 }
 
 .header__logo {
@@ -244,12 +244,12 @@
 .lots__look-more-link {
     display: block;
     padding: 1px 0px 0px 40px;
-    text-underline-offset: 5px; 
     font-size: 20px;
     line-height: 1;
     letter-spacing: 0%;
     text-transform: lowercase;
     color: rgba(0, 0, 0, 1);
+    text-underline-offset: 5px;
 }
 
 .about {
